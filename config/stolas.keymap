@@ -85,10 +85,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-&kp Q       &kp W       &kp F        &kp P        &kp G     &kp J    &kp L        &kp U        &kp Y       &kp SEMI
-&mt LGUI A  &mt LALT R  &mt LCTRL S  &mt LSHFT T  &kp D     &kp H    &mt RSHFT N  &mt RCTRL E  &mt RALT I  &mt RGUI O
-&kp Q       &kp Z       &kp X        &kp C        &kp V     &kp B    &kp K        &kp M        &kp COMMA   &kp DOT
-                                     &kp FSLH     &kp BSLH  &kp DEL  &lt NAV TAB
+&kp SQT        &kp COMMA   &kp PERIOD   &kp P        &kp Y        &kp F    &kp G        &kp C        &kp R       &kp L
+&mt LGUI A     &mt LALT O  &mt LCTRL E  &mt LSHFT U  &kp I        &kp D    &mt RSHFT H  &mt RCTRL T  &mt RALT N  &mt RGUI S
+&kp SEMICOLON  &kp Q       &kp J        &kp K        &kp X        &kp B    &kp M        &kp W        &kp V       &kp Z
+                                        &kp FSLH     &lt 1 SPACE  &kp DEL  &lt NAV TAB
             >;
         };
 
